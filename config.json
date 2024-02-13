@@ -1,0 +1,13 @@
+{
+    "photos":{
+        "start":1,
+        "end":110,
+        "exclude":[]
+    },
+    "mp3":{
+        "start":1,
+        "end":44,
+        "exclude":[]        
+    }
+
+}
